@@ -1,0 +1,19 @@
+.header {
+  text-align: center;
+  background-color: #daffb3; }
+  .header h1 {
+    font-weight: bold;
+    color: darkslateblue;
+    font-family: "Alegreya Sans", sans-serif;
+    font-size: 90px; }
+  .header small {
+    font-family: "Cookie", cursive; }
+
+.lyric {
+  font-size: 15px;
+  background-color: #ebebe0; }
+  .lyric .container {
+    padding-left: 20px;
+    background-color: white; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,25 @@
+$fonts-one: 'Alegreya Sans', sans-serif;
+$fonts-two:'Cookie', cursive;
+
+.header {
+    text-align: center;
+    background-color: #daffb3;
+    h1 {
+        font-weight: bold;
+        color: darkslateblue;
+        font-family: $fonts-one;
+        font-size: 90px;
+    }
+    small {
+        font-family: $fonts-two;
+    }
+}
+
+.lyric {
+    font-size: 15px;
+    background-color: #ebebe0;
+    .container {
+        padding-left: 20px;
+        background-color: white;
+    }
+}
