@@ -1,12 +1,14 @@
 $fonts-one: 'Alegreya Sans', sans-serif;
 $fonts-two:'Cookie', cursive;
+$grey: #ebebe0;
+$rw-color:#140033;
 
 .header {
     text-align: center;
     background-color: #daffb3;
     h1 {
         font-weight: bold;
-        color: darkslateblue;
+        color: $rw-color;
         font-family: $fonts-one;
         font-size: 90px;
     }
@@ -17,9 +19,20 @@ $fonts-two:'Cookie', cursive;
 
 .lyric {
     font-size: 15px;
-    background-color: #ebebe0;
+    background-color: $grey;
     .container {
         padding-left: 20px;
         background-color: white;
     }
+    p {
+        margin-top: 10px;
+        padding-left: 40px;
+    }
+}
+
+.about {
+    background-color: $grey;
+    font-family: $fonts-one;
+    padding-top: 30px;
+    color: $rw-color;
 }

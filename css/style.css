@@ -3,7 +3,7 @@
   background-color: #daffb3; }
   .header h1 {
     font-weight: bold;
-    color: darkslateblue;
+    color: #140033;
     font-family: "Alegreya Sans", sans-serif;
     font-size: 90px; }
   .header small {
@@ -15,5 +15,14 @@
   .lyric .container {
     padding-left: 20px;
     background-color: white; }
+  .lyric p {
+    margin-top: 10px;
+    padding-left: 40px; }
+
+.about {
+  background-color: #ebebe0;
+  font-family: "Alegreya Sans", sans-serif;
+  padding-top: 30px;
+  color: #140033; }
 
 /*# sourceMappingURL=style.css.map */
