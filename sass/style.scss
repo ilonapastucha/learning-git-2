@@ -31,8 +31,11 @@ $rw-color: red;
 }
 
 .about {
-    background-color: $grey;
+    background-color: black;
     font-family: $fonts-one;
     padding-top: 30px;
-    color: $rw-color;
+    .col-lg-4 {
+        padding-left: 5px;
+        color: white
+    }
 }
