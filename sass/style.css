@@ -15,6 +15,9 @@
   .lyric .container {
     padding-left: 20px;
     background-color: white; }
+  .lyric h2 {
+    font-family: "Cookie", cursive;
+    color: darkslategrey; }
   .lyric p {
     margin-top: 10px;
     padding-left: 40px; }
