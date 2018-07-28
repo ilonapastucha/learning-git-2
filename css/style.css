@@ -1,8 +1,33 @@
->>> Sass is watching for changes. Press Ctrl-C to stop.
->>> Change detected to: sass/style.scss
-      write sass/style.css
-      write sass/style.css.map
->>> Change detected to: sass/style.scss
-      write sass/style.css
-      write sass/style.css.map
-Terminate batch job (Y/N)? 
+.header {
+  text-align: center;
+  background-color: #daffb3; }
+  .header h1 {
+    font-weight: bold;
+    color: red;
+    font-family: "Alegreya Sans", sans-serif;
+    font-size: 90px; }
+  .header small {
+    font-family: "Cookie", cursive; }
+
+.lyric {
+  font-size: 15px;
+  background-color: #ebebe0; }
+  .lyric .container {
+    padding-left: 20px;
+    background-color: white; }
+  .lyric h2 {
+    font-family: "Cookie", cursive;
+    color: darkslategrey; }
+  .lyric p {
+    margin-top: 10px;
+    padding-left: 40px; }
+
+.about {
+  background-color: black;
+  font-family: "Alegreya Sans", sans-serif;
+  padding-top: 30px; }
+  .about .col-lg-4 {
+    padding-left: 5px;
+    color: white; }
+
+/*# sourceMappingURL=style.css.map */
