@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/ilonapastucha/learning-git-2#readme",
   "devDependencies": {
-    "browser-sync": "^2.24.6"
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.24.6",
+    "nu-html-checker": "^0.1.0"
   },
   "dependencies": {}
 }
