@@ -1,0 +1,3 @@
+autoprefixer-cl -o style.prefixed.css style.css
+
+java -jar ~/vnu.jar --skip-non-html some-directory-name/
