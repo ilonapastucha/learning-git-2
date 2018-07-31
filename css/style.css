@@ -1,33 +1,17 @@
-.header {
-  text-align: center;
-  background-color: #daffb3; }
-  .header h1 {
-    font-weight: bold;
-    color: red;
-    font-family: "Alegreya Sans", sans-serif;
-    font-size: 90px; }
-  .header small {
-    font-family: "Cookie", cursive; }
+.header { text-align: center; background-color: #daffb3; }
 
-.lyric {
-  font-size: 15px;
-  background-color: #ebebe0; }
-  .lyric .container {
-    padding-left: 20px;
-    background-color: white; }
-  .lyric h2 {
-    font-family: "Cookie", cursive;
-    color: darkslategrey; }
-  .lyric p {
-    margin-top: 10px;
-    padding-left: 40px; }
+.header h1 { font-weight: bold; color: red; font-family: "Alegreya Sans", sans-serif; font-size: 90px; }
 
-.about {
-  background-color: black;
-  font-family: "Alegreya Sans", sans-serif;
-  padding-top: 30px; }
-  .about .col-lg-4 {
-    padding-left: 5px;
-    color: white; }
+.header small { font-family: "Cookie", cursive; }
 
-/*# sourceMappingURL=style.css.map */
+.lyric { font-size: 15px; background-color: #ebebe0; }
+
+.lyric .container { padding-left: 20px; background-color: white; }
+
+.lyric h2 { font-family: "Cookie", cursive; color: darkslategrey; }
+
+.lyric p { margin-top: 10px; padding-left: 40px; }
+
+.about { background-color: black; font-family: "Alegreya Sans", sans-serif; padding-top: 30px; }
+
+.about .col-lg-4 { padding-left: 5px; color: white; }
